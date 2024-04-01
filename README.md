@@ -11,7 +11,7 @@ Distplot project is a Python application that demonstrates how to create a distr
 
 2. Run the project:
 ```python
-python distplot_project.py
+python DistPlot.py
 ```
 
 
